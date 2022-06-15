@@ -30,6 +30,13 @@
             {
               "client_id": "583679056577-gql7iltt0lupu3ao3gg7gau2555qod36.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "583679056577-0k464ih4v4rag6k3jesjto8bek84pf58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "katsu.katsuDojo"
+              }
             }
           ]
         }
